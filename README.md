@@ -1,4 +1,4 @@
-# Studi-Kasus-Data-Mining
+# Studi Kasus Data Mining B
 
 Anggota Kelompok:   
 -[2000018018] Luzah Ulil Hikmah    
