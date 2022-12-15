@@ -1,11 +1,13 @@
 # Studi-Kasus-Data-Mining
 
--Berikut studi kasus yang dipilih oleh kelompok kami dan datasetnya
+Anggota Kelompok:   
+-[2000018018] Luzah Ulil Hikmah    
+-[2000018026] Alfi Maulana Akbar   
+-[2000018049] Inas Luthfianti Shaliha   
+-[2000018052] Wisnu Nur Arya Saputra  
 
--Dataset yang kami pilih adalah data toko roti (bakery), data tersebut mempunyai jumlah 150 data
+1. Topik: Association Rule Bakery Algoritma Apriori   
+   Tujuan: Mengidentifikasi hubungan yg sering terjadi antar item dalam setiap transaksi
 
--Dalam data tersebut memiliki variabel (TransactionNo,Items,DateTime,Daypart,DayType)
-
--Data tersebut kami ambil dari sumber: https://www.kaggle.com/datasets/akashdeepkuila/bakery
-
--Data yang ditampilkan adalah data yang bisa digunakan untuk melakukan Association rule (Apriori)
+2. Dataset yang kami pilih adalah data toko roti (bakery), data tersebut mempunyai jumlah 150 data
+   Sumber data: https://www.kaggle.com/datasets/akashdeepkuila/bakery
