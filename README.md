@@ -9,5 +9,5 @@ Anggota Kelompok:
 1. Topik: Association Rule Bakery Algoritma Apriori.   
    Tujuan: Mengidentifikasi hubungan yg sering terjadi antar item pada setiap transaksi.
 
-2. Dataset yang kami pilih adalah data toko roti (bakery), data tersebut mempunyai jumlah 150 data.
+2. Dataset yang kami pilih adalah data toko roti (bakery), data tersebut akan diambil 150 data transaksi.
    Sumber data: https://www.kaggle.com/datasets/akashdeepkuila/bakery
