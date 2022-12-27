@@ -13,3 +13,10 @@ Anggota Kelompok:
    Data mentah: bakery.csv
    Data olahan: bakery_sales.csv
    Sumber data: https://www.kaggle.com/datasets/akashdeepkuila/bakery
+   
+## REVISI DATA SET
+1. Topik: Association Rule Ekstrakulikuler Algoritma Apriori.   
+   Tujuan: Mengidentifikasi hubungan yg sering terjadi antar item pada setiap data siswa/i.
+   
+2. Dataset yang kami pilih adalah data pemilihan kegiatan ekstrakulikuler, data tersebut akan diambil 150 data transaksi.
+   Nama file: data_eskul.xlsx
