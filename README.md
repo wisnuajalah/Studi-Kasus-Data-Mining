@@ -12,3 +12,10 @@ Anggota Kelompok:
    
 2. Dataset yang kami pilih adalah data pemilihan kegiatan ekstrakulikuler, data tersebut akan diambil 150 data transaksi.
    Nama file: data_eskul.csv
+
+## OLAHAN DATA
+Data yang kami dapatkan akan diolah menggunakan 2 library berbeda, tetapi dengan metode algoritma yang sama.
+Metode algoritma: Apriori
+Library:
+ 1. apyori   --> install -->  %pip install apyori
+ 2. mlxtend  --> install -->  %pip install mlxtend
