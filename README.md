@@ -5,18 +5,10 @@ Anggota Kelompok:
 -[2000018026] Alfi Maulana Akbar   
 -[2000018049] Inas Luthfianti Shaliha   
 -[2000018052] Wisnu Nur Arya Saputra  
-
-1. Topik: Association Rule Bakery Algoritma Apriori.   
-   Tujuan: Mengidentifikasi hubungan yg sering terjadi antar item pada setiap transaksi.
-
-2. Dataset yang kami pilih adalah data toko roti (bakery), data tersebut akan diambil 150 data transaksi.
-   Data mentah: bakery.csv
-   Data olahan: bakery_sales.csv
-   Sumber data: https://www.kaggle.com/datasets/akashdeepkuila/bakery
    
-## REVISI DATA SET
-1. Topik: Association Rule Ekstrakulikuler Algoritma Apriori.   
-   Tujuan: Mengidentifikasi hubungan yg sering terjadi antar item pada setiap data siswa/i.
+## DATA SET
+1. Tema: Association Rule Apriori.   
+   Tujuan: Mengidentifikasi hubungan pada setiap ekstrakurikuler.
    
 2. Dataset yang kami pilih adalah data pemilihan kegiatan ekstrakulikuler, data tersebut akan diambil 150 data transaksi.
-   Nama file: data_eskul.xlsx
+   Nama file: data_eskul.csv
